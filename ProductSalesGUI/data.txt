@@ -1,0 +1,6 @@
+DATA LOG
+Total Sales: 2200
+Average Sales: 366
+Sales over Limit: 2
+Sales under Limit: 4
+***************************************************************
